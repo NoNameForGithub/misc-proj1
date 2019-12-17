@@ -7,6 +7,6 @@ UBR - Doesn't work at all
 ## Compatibility
 | Website       | Comp. Level   | Notes |
 | ------------- |:-------------:| -----:|
-| [Youtube](youtube.com)| GLD | Works good when put into mobile mode |
-| [Reddit](https://serebii.net) | GLD | Only the old layout of reddit works (linked) |
+| [Youtube](https://youtube.com)| GLD | Works good when put into mobile mode |
+| [Reddit](https://old.reddit.com) | GLD | Only the old layout of reddit works (linked) |
 | [GFYCAT](https://gfycat.com) | UBR | Whole website is broken |
