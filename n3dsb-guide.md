@@ -1,9 +1,9 @@
 # New Nintendo 3DS Browser Compatibility chart
-DMN - Works perfectly
-GLD - Works perfectly with some tweaks/workarounds
-IRN - Works normally, enough for the core experience of the web
-BRU - Works badly
-UBR - Doesn't work at all
+DMN - Works perfectly<br>
+GLD - Works perfectly with some tweaks/workarounds<br>
+IRN - Works normally, enough for the core experience of the web<br>
+BRU - Works badly<br>
+UBR - Doesn't work at all<br>
 ## Compatibility
 | Website       | Comp. Level   | Notes |
 | ------------- |:-------------:| -----:|
